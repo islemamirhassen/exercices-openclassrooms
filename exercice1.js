@@ -1,0 +1,1 @@
+const listeMots=["Cachalot", "Pétunia","Serviette"]
